@@ -1,0 +1,89 @@
+body{
+  font-family: arial;
+width: 100%;
+margin: 0px;
+padding: 0px;
+user-select: none;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+
+}
+
+
+
+.whole{
+  max-width: 1140px;
+  margin: auto;
+  }
+
+
+  .header{
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  margin-top: 1em;
+  }
+
+  .lime{
+display: flex;
+flex-direction: row;
+padding-left: 5em;
+
+}
+
+.nav-link{
+text-decoration: none;
+padding-right: 20px;
+color: rgb(146, 158, 204);
+    cursor: pointer;
+    font-size: 20px;
+    font-family: arial;
+}
+
+.mpsu{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+      
+}
+
+.navbar-brand{
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 30px;
+  padding-right: 5em;
+  font-family: arial;
+  color: #37447e;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+
+.success1{
+  text-decoration: none;
+}
+
+.success{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background-color: #111b47;
+    width: 11em;
+    height: 2.5em;
+    justify-content: space-evenly;
+    align-items: center;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  

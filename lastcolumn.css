@@ -1,0 +1,171 @@
+.last{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  background-color: rgb(243, 245, 255);
+  border-radius: 30px;
+  width: 100%;
+  height: 100%;
+  margin-top: 150px;
+  align-items: center;
+  color:  rgb(9, 17, 51);
+}
+
+.lasto{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-top: 50px;
+}
+
+
+.h11{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-evenly;
+  padding-bottom: 5px;
+
+}
+
+
+.p11{
+  display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-evenly;
+  padding-bottom: 5px;
+  color: rgb(111, 124, 178);;
+}
+
+.h12{
+  display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-evenly;
+  padding-bottom: 5px;
+}
+
+.p12{
+  display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-evenly;
+  padding-bottom: 5px;
+  color: rgb(9, 17, 51);
+}
+
+.p13{
+  display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-evenly;
+  padding-bottom: 5px;
+  color: rgb(93, 105, 112);
+}
+
+
+.buss{
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color:  rgb(9, 17, 51);
+  color: white;
+  border: none;
+ height: 30px;
+ border-radius: 5px;
+ cursor: pointer; 
+ margin-bottom: 5em;
+ width: 12em;
+ height: 2.5em;
+}
+
+
+.lastss{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: rgb(243, 245, 255);
+  border-radius: 15px;
+  width: 100%;
+  height: 200px;
+  margin-top: 70px;
+  margin-bottom: 0px;
+}
+
+.h1{
+  margin-top: 0PX;
+  margin-bottom: 0px;
+  font-size: 1em;
+  color: rgb(9, 17, 51);
+  }
+
+  .lastoss{
+    height: 3em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 96%;
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+
+  .p{
+    color: gray;
+    }
+
+    .bust{
+      background-color:  rgb(9, 17, 51);
+      color: white;
+      border: none;
+     height: 30px;
+     border-radius: 5px;
+     cursor: pointer; 
+     width: 12em;
+     height: 2.5em;
+    }
+
+    .icc{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      width: 70%;
+    }
+
+    .ha{
+      display: flex;
+      flex-direction: row;
+      width: 90%;
+    }
+
+    .a{margin: 20px;
+      cursor: pointer;
+      text-decoration: none;
+      color: rgb(146, 158, 204);
+    }
+
+    .icons{
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      justify-content: end;
+      align-items: center;
+      
+    }
+
+    .icon{
+      width: 20px;
+      height: 20px;
+      justify-content: end;
+      justify-content: space-between;
+      align-items: center;
+      padding-left: 15px;
+      cursor: pointer;
+      
+    
+    }
